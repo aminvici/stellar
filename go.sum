@@ -1,5 +1,5 @@
-bitbucket.org/ww/goautoneg v0.0.0-20120707110453-75cd24fc2f2c h1:t+Ra932MCC0eeyD/vigXqMbZTzgZjd4JOfBJWC6VSMI=
-bitbucket.org/ww/goautoneg v0.0.0-20120707110453-75cd24fc2f2c/go.mod h1:1vhO7Mn/FZMgOgDVGLy5X1mE6rq1HbkBdkF/yj8zkcg=
+#bitbucket.org/ww/goautoneg v0.0.0-20120707110453-75cd24fc2f2c h1:t+Ra932MCC0eeyD/vigXqMbZTzgZjd4JOfBJWC6VSMI=
+#bitbucket.org/ww/goautoneg v0.0.0-20120707110453-75cd24fc2f2c/go.mod h1:1vhO7Mn/FZMgOgDVGLy5X1mE6rq1HbkBdkF/yj8zkcg=
 github.com/BurntSushi/toml v0.2.1-0.20160717150709-99064174e013 h1:b3U6YBLKb/l6Z2g3UU9I9qb0E8ae2vqNcA3IZtotoYQ=
 github.com/BurntSushi/toml v0.2.1-0.20160717150709-99064174e013/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Masterminds/squirrel v0.0.0-20161115235646-20f192218cf5 h1:PPfYWScYacO3Q6JMCLkyh6Ea2Q/REDTMgmiTAeiV8Jg=

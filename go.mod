@@ -3,7 +3,7 @@ module github.com/stellar/go
 go 1.12
 
 require (
-	bitbucket.org/ww/goautoneg v0.0.0-20120707110453-75cd24fc2f2c
+	#bitbucket.org/ww/goautoneg v0.0.0-20120707110453-75cd24fc2f2c
 	github.com/BurntSushi/toml v0.2.1-0.20160717150709-99064174e013
 	github.com/Masterminds/squirrel v0.0.0-20161115235646-20f192218cf5
 	github.com/ajg/form v0.0.0-20160822230020-523a5da1a92f // indirect
